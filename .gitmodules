@@ -1,0 +1,9 @@
+[submodule "libs/TweakerUnity"]
+	path = libs/TweakerUnity
+	url = git@github.com:Ghostbit/TweakerUnity.git
+[submodule "libs/Ash.Net"]
+	path = libs/Ash.Net
+	url = git@github.com:Ghostbit/Ash.Net.git
+[submodule "libs/strangeioc"]
+	path = libs/strangeioc
+	url = git@github.com:Ghostbit/strangeioc.git
